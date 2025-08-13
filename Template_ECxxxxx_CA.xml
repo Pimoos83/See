@@ -1,0 +1,44 @@
+<Component id="ECxxxxx">
+  <FunctionalName>Name</FunctionalName>
+  <TransmissionComponent xmlns="http://www.schneider-electric.com/electrical-distribution/exchange-format/electrical-taxonomy">
+    <Properties>
+      <NeutralConductorCore>Core</NeutralConductorCore>
+      <PEConductorCore>Core</PEConductorCore>
+      <PhaseConductorCore>Core</PhaseConductorCore>
+      <UserCorrectionFactor>1</UserCorrectionFactor>
+    </Properties>
+    <Cable>
+      <Properties>
+        <Insulation>PR</Insulation>
+        <LiveConductorType>SingleConductor</LiveConductorType>
+        <PEConductorType>SeparatedPE</PEConductorType>
+        <Length>8</Length>
+        <InstallationMethod>
+          <AmbientTemperatureAir>30</AmbientTemperatureAir>
+          <ArrangementTouchingCircuit/>
+          <Description/>
+          <InstallationMethodNumber>13</InstallationMethodNumber>
+          <InstallationSystem/>
+          <ReferenceMethod/>
+          <Situation/>
+          <SubInstallationSystem/>
+          <TemperatureFactorF1>1.00</TemperatureFactorF1>
+          <TouchingConductorsFactorF2>1.00</TouchingConductorsFactorF2>
+          <ProtectionCoefficientK3>1.00</ProtectionCoefficientK3>
+        </InstallationMethod>
+      </Properties>
+    </Cable>
+  </TransmissionComponent>
+  <Terminals>
+    <Terminal id="ECTxxxxx">
+      <Polarity>3Ph+N</Polarity>
+      <SystemEarthingManagement>TN-S</SystemEarthingManagement>
+      <Voltage>400</Voltage>
+    </Terminal>
+    <Terminal id="ECT00003">
+      <Polarity>3Ph+N</Polarity>
+      <SystemEarthingManagement>TN-S</SystemEarthingManagement>
+      <Voltage>400</Voltage>
+    </Terminal>
+  </Terminals>
+</Component>

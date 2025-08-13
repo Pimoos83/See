@@ -1,0 +1,47 @@
+<Function id="EFxxxxx" Components="ECxxxxx">
+  <DistributionFunction xmlns="http://www.schneider-electric.com/electrical-distribution/exchange-format/electrical-taxonomy">
+    <Type>Busbar</Type>
+  </DistributionFunction>
+  <ExploitationModes>
+    <Properties ExploitationMode="EXMxxxxx">
+      <ShortCircuitCurrent>
+        <IK3Max>13455.38</IK3Max>
+        <IP3>26910.75</IP3>
+        <IK2Max>11652.7</IK2Max>
+        <IK2Min>9028.07</IK2Min>
+        <IK1Max>12997.86</IK1Max>
+        <IK1Min>10174.52</IK1Min>
+        <If>12367.66</If>
+        <If2Min>9355.08</If2Min>
+      </ShortCircuitCurrent>
+      <CurrentDemand>
+        <Phase1>61.14</Phase1>
+        <Phase2>327.97</Phase2>
+        <Phase3>366.75</Phase3>
+      </CurrentDemand>
+      <CumulatedVoltageDrop>
+        <ThreePhases>0.25</ThreePhases>
+      </CumulatedVoltageDrop>
+    </Properties>
+    <Properties ExploitationMode="EXMxxxxx">
+      <ShortCircuitCurrent>
+        <IK3Max>3149.64</IK3Max>
+        <IP3>4724.45</IP3>
+        <IK2Max>2727.67</IK2Max>
+        <IK2Min>747.97</IK2Min>
+        <IK1Max>3594.04</IK1Max>
+        <IK1Min>1171.95</IK1Min>
+        <If>3157.09</If>
+        <If2Min>1107.22</If2Min>
+      </ShortCircuitCurrent>
+      <CurrentDemand>
+        <Phase1>29.13</Phase1>
+        <Phase2>93.05</Phase2>
+        <Phase3>46.23</Phase3>
+      </CurrentDemand>
+      <CumulatedVoltageDrop>
+        <ThreePhases>0.25</ThreePhases>
+      </CumulatedVoltageDrop>
+    </Properties>
+  </ExploitationModes>
+</Function>

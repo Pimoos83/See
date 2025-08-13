@@ -1,0 +1,22 @@
+<Function id="EFxxxxx" Components="ECxxxxx">
+  <ReceiverFunction xmlns="http://www.schneider-electric.com/electrical-distribution/exchange-format/electrical-taxonomy">
+    <Type>Passive</Type>
+  </ReceiverFunction>
+  <ExploitationModes>
+    <Properties ExploitationMode="EXMxxxxx">
+      <ShortCircuitCurrent>
+        <IK1Max>558.54</IK1Max>
+        <IK1Min>343</IK1Min>
+      </ShortCircuitCurrent>
+      <CurrentDemand>
+        <Phase3>30.31</Phase3>
+      </CurrentDemand>
+      <InnerVoltageDrop>
+        <ThreePhases>6.99</ThreePhases>
+      </InnerVoltageDrop>
+      <CumulatedVoltageDrop>
+        <ThreePhases>8</ThreePhases>
+      </CumulatedVoltageDrop>
+    </Properties>
+  </ExploitationModes>
+</Function>

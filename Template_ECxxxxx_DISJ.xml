@@ -1,0 +1,36 @@
+<Component id="ECxxxxx">
+  <FunctionalName>Name</FunctionalName>
+  <SwitchComponent xmlns="http://www.schneider-electric.com/electrical-distribution/exchange-format/electrical-taxonomy">
+    <Properties>
+      <StandardTypeOf>Industrial</StandardTypeOf>
+    </Properties>
+    <Power>
+      <Properties>
+        <RatedCurrent>Rating</RatedCurrent>
+        <SwitchedPoleDescription>Pole</SwitchedPoleDescription>
+      </Properties>
+      <Protection>
+        <Properties>
+          <ProtectedPoleNumber>Prp</ProtectedPoleNumber>
+        </Properties>
+        <CircuitBreaker>
+          <Properties>
+            <TripUnitCurve>Trip</TripUnitCurve>
+          </Properties>
+        </CircuitBreaker>
+      </Protection>
+    </Power>
+  </SwitchComponent>
+  <Terminals>
+    <Terminal id="ECTxxxxx">
+      <Polarity>3Ph+N</Polarity>
+      <SystemEarthingManagement>TN-S</SystemEarthingManagement>
+      <Voltage>400</Voltage>
+    </Terminal>
+    <Terminal id="ECTxxxxx">
+      <Polarity>3Ph+N</Polarity>
+      <SystemEarthingManagement>TN-S</SystemEarthingManagement>
+      <Voltage>400</Voltage>
+    </Terminal>
+  </Terminals>
+</Component>

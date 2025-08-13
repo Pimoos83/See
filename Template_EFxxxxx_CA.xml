@@ -1,0 +1,8 @@
+<Function id="EFxxxxx" Components="ECxxxxx">
+  <TransmissionFunction xmlns="http://www.schneider-electric.com/electrical-distribution/exchange-format/electrical-taxonomy">
+    <Type>Cable</Type>
+  </TransmissionFunction>
+  <ExploitationModes>
+    <Properties ExploitationMode="EXMxxxxx"/>
+  </ExploitationModes>
+</Function>

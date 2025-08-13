@@ -1,0 +1,5 @@
+<Connection id="ECXxxxxx" EndpointA="ECTxxxxx" EndpointB="ECTxxxxx">
+  <Orientations>
+    <Default>A_to_B</Default>
+  </Orientations>
+</Connection>

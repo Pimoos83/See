@@ -1,0 +1,6 @@
+  <Function id="EFxxxxx" Components="ECxxxxx">
+    <SwitchgearFunction xmlns="http://www.schneider-electric.com/electrical-distribution/exchange-format/electrical-taxonomy"/>
+    <ExploitationModes>
+      <Properties ExploitationMode="EXM00003"/>
+    </ExploitationModes>
+  </Function>

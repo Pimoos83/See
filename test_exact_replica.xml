@@ -1,0 +1,668 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ElectricalProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.schneider-electric.com/electrical-distribution/exchange-format" formatVersion="0.29" productRangeValuesVersion="0.17" commercialTaxonomyVersion="0.26" electricalTaxonomyVersion="0.19" mechanicalTaxonomyVersion="0.1">
+  
+  
+  <Description>
+    
+    
+    <Name>Caneco BT - Etap Roadshow 2023</Name>
+    
+    
+    <Number/>
+    
+    
+    <OrderNumber/>
+    
+    
+    <StartDate>2023-10-10T00:00:00.0Z</StartDate>
+    
+  
+  </Description>
+  
+  
+  <Contacts>
+    
+    
+    <Company id="CC00001">
+      
+      
+      <Address>
+        
+        
+        <Street/>
+        
+        
+        <PostalCode/>
+        
+        
+        <City/>
+        
+        
+        <State/>
+        
+        
+        <Country>France</Country>
+        
+      
+      </Address>
+      
+      
+      <PhoneNumbers>
+        
+        
+        <Phone Kind="main"/>
+        
+      
+      </PhoneNumbers>
+      
+      
+      <Name>Authorized user</Name>
+      
+    
+    </Company>
+    
+    
+    <Person id="CP00001">
+      
+      
+      <LastName/>
+      
+      
+      <PhoneNumbers>
+        
+        
+        <Phone Kind="main"/>
+        
+      
+      </PhoneNumbers>
+      
+      
+      <Email/>
+      
+      
+      <Company id="CC00001"/>
+      
+    
+    </Person>
+    
+  
+  </Contacts>
+  
+  
+  <Products>
+    
+    
+    <ProductSet>
+      
+      
+      <Product id="PG00001">
+        
+        
+        <Name>IRVE C2</Name>
+        
+        
+        <Seed Name="" Type="RAPSODY" GroupId="ECD_DISJONCTEUR" ItemId="MG4_13271"/>
+        
+        
+        <Content>
+          
+          
+          <Characteristics>
+            
+            
+            <Characteristic>
+              
+              
+              <Name/>
+              
+              
+              <Id>PRT_CAL</Id>
+              
+              
+              <SetValues>
+                
+                
+                <Value>
+                  
+                  
+                  <Name/>
+                  
+                  
+                  <Id>iDT40T/AC 32A 30mA C 2P</Id>
+                  
+                
+                </Value>
+                
+              
+              </SetValues>
+              
+            
+            </Characteristic>
+            
+            
+            <Characteristic>
+              
+              
+              <Name/>
+              
+              
+              <Id>PRT_NBPPP</Id>
+              
+              
+              <SetValues>
+                
+                
+                <Value>
+                  
+                  
+                  <Name/>
+                  
+                  
+                  <Id>3P3D</Id>
+                  
+                
+                </Value>
+                
+              
+              </SetValues>
+              
+            
+            </Characteristic>
+            
+            
+            <Characteristic>
+              
+              
+              <Name/>
+              
+              
+              <Id>PRT_FREQ</Id>
+              
+              
+              <SetValues>
+                
+                
+                <Value>
+                  
+                  
+                  <Name/>
+                  
+                  
+                  <Id>50</Id>
+                  
+                
+                </Value>
+                
+              
+              </SetValues>
+              
+            
+            </Characteristic>
+            
+          
+          </Characteristics>
+          
+        
+        </Content>
+        
+      
+      </Product>
+      
+      
+      <Product id="PG00002">
+        
+        
+        <Name>TR01</Name>
+        
+        
+        <Seed Name="" Type="RAPSODY" GroupId="ECD_DISJONCTEUR" ItemId="MG4_13271"/>
+        
+        
+        <Content>
+          
+          
+          <Characteristics>
+            
+            
+            <Characteristic>
+              
+              
+              <Name/>
+              
+              
+              <Id>PRT_CAL</Id>
+              
+              
+              <SetValues>
+                
+                
+                <Value>
+                  
+                  
+                  <Name/>
+                  
+                  
+                  <Id>NSX630F Micrologic 2.3 630A 4P3D</Id>
+                  
+                
+                </Value>
+                
+              
+              </SetValues>
+              
+            
+            </Characteristic>
+            
+            
+            <Characteristic>
+              
+              
+              <Name/>
+              
+              
+              <Id>PRT_NBPPP</Id>
+              
+              
+              <SetValues>
+                
+                
+                <Value>
+                  
+                  
+                  <Name/>
+                  
+                  
+                  <Id>3P3D</Id>
+                  
+                
+                </Value>
+                
+              
+              </SetValues>
+              
+            
+            </Characteristic>
+            
+            
+            <Characteristic>
+              
+              
+              <Name/>
+              
+              
+              <Id>PRT_FREQ</Id>
+              
+              
+              <SetValues>
+                
+                
+                <Value>
+                  
+                  
+                  <Name/>
+                  
+                  
+                  <Id>50</Id>
+                  
+                
+                </Value>
+                
+              
+              </SetValues>
+              
+            
+            </Characteristic>
+            
+          
+          </Characteristics>
+          
+        
+        </Content>
+        
+      
+      </Product>
+      
+      
+      <Product id="PG00003">
+        
+        
+        <Name>ALIM TD IRVE</Name>
+        
+        
+        <Seed Name="" Type="RAPSODY" GroupId="ECD_DISJONCTEUR" ItemId="MG4_13271"/>
+        
+        
+        <Content>
+          
+          
+          <Characteristics>
+            
+            
+            <Characteristic>
+              
+              
+              <Name/>
+              
+              
+              <Id>PRT_CAL</Id>
+              
+              
+              <SetValues>
+                
+                
+                <Value>
+                  
+                  
+                  <Name/>
+                  
+                  
+                  <Id>NSXmE TM-D 32A 4P4D</Id>
+                  
+                
+                </Value>
+                
+              
+              </SetValues>
+              
+            
+            </Characteristic>
+            
+            
+            <Characteristic>
+              
+              
+              <Name/>
+              
+              
+              <Id>PRT_NBPPP</Id>
+              
+              
+              <SetValues>
+                
+                
+                <Value>
+                  
+                  
+                  <Name/>
+                  
+                  
+                  <Id>3P3D</Id>
+                  
+                
+                </Value>
+                
+              
+              </SetValues>
+              
+            
+            </Characteristic>
+            
+            
+            <Characteristic>
+              
+              
+              <Name/>
+              
+              
+              <Id>PRT_FREQ</Id>
+              
+              
+              <SetValues>
+                
+                
+                <Value>
+                  
+                  
+                  <Name/>
+                  
+                  
+                  <Id>50</Id>
+                  
+                
+                </Value>
+                
+              
+              </SetValues>
+              
+            
+            </Characteristic>
+            
+          
+          </Characteristics>
+          
+        
+        </Content>
+        
+      
+      </Product>
+      
+    
+    </ProductSet>
+    
+    
+    <ProductList>
+      
+      
+      <Pack id="PK00001">
+        
+        
+        <Product id="PG00001">
+          
+          
+          <Name>IRVE C2</Name>
+          
+          
+          <Content>
+            
+            
+            <CircuitBreaker xmlns="http://www.schneider-electric.com/electrical-distribution/exchange-format/commercial-taxonomy"/>
+            
+          
+          </Content>
+          
+        
+        </Product>
+        
+        
+        <Instances>
+          
+          
+          <Instance id="PI00001"/>
+          
+        
+        </Instances>
+        
+      
+      </Pack>
+      
+      
+      <Pack id="PK00002">
+        
+        
+        <Product id="PG00002">
+          
+          
+          <Name>TR01</Name>
+          
+          
+          <Content>
+            
+            
+            <CircuitBreaker xmlns="http://www.schneider-electric.com/electrical-distribution/exchange-format/commercial-taxonomy"/>
+            
+          
+          </Content>
+          
+        
+        </Product>
+        
+        
+        <Instances>
+          
+          
+          <Instance id="PI00002"/>
+          
+        
+        </Instances>
+        
+      
+      </Pack>
+      
+      
+      <Pack id="PK00003">
+        
+        
+        <Product id="PG00003">
+          
+          
+          <Name>ALIM TD IRVE</Name>
+          
+          
+          <Content>
+            
+            
+            <CircuitBreaker xmlns="http://www.schneider-electric.com/electrical-distribution/exchange-format/commercial-taxonomy"/>
+            
+          
+          </Content>
+          
+        
+        </Product>
+        
+        
+        <Instances>
+          
+          
+          <Instance id="PI00003"/>
+          
+        
+        </Instances>
+        
+      
+      </Pack>
+      
+    
+    </ProductList>
+    
+  
+  </Products>
+  
+  
+  <Equipments>
+    
+    
+    <Equipment id="EQ00001">
+      
+      
+      <Commercial ProductPacks="PK00001 PK00002 PK00003">
+        
+        
+        <Properties>
+          
+          
+          <BreakingCapacity>36</BreakingCapacity>
+          
+          
+          <Rating>630</Rating>
+          
+        
+        </Properties>
+        
+      
+      </Commercial>
+      
+      
+      <Electrical Devices="ED00001 ED00002 ED00003" Functions="EF00001 EF00002 EF00003">
+        
+        
+        <Properties>
+          
+          
+          <Frequency>50</Frequency>
+          
+          
+          <EarthingSystem>TN-S</EarthingSystem>
+          
+        
+        </Properties>
+        
+        
+        <Switchboard>
+          
+          
+          <Properties/>
+          
+        
+        </Switchboard>
+        
+      
+      </Electrical>
+      
+      
+      <Properties>
+        
+        
+        <Name>TGBT</Name>
+        
+      
+      </Properties>
+      
+    
+    </Equipment>
+    
+  
+  </Equipments>
+  
+  
+  <Network>
+    
+    
+    <Frequency>50</Frequency>
+    
+    
+    <Devices>
+      
+      
+      <Device id="ED00001" ProductInstance="PI00001" Components="EC00001">
+        
+        
+        <FunctionalName>IRVE C2</FunctionalName>
+        
+        
+        <CircuitBreakerDevice xmlns="http://www.schneider-electric.com/electrical-distribution/exchange-format/electrical-taxonomy"/>
+        
+      
+      </Device>
+      
+      
+      <Device id="ED00002" ProductInstance="PI00002" Components="EC00002">
+        
+        
+        <FunctionalName>TR01</FunctionalName>
+        
+        
+        <CircuitBreakerDevice xmlns="http://www.schneider-electric.com/electrical-distribution/exchange-format/electrical-taxonomy"/>
+        
+      
+      </Device>
+      
+      
+      <Device id="ED00003" ProductInstance="PI00003" Components="EC00003">
+        
+        
+        <FunctionalName>ALIM TD IRVE</FunctionalName>
+        
+        
+        <CircuitBreakerDevice xmlns="http://www.schneider-electric.com/electrical-distribution/exchange-format/electrical-taxonomy"/>
+        
+      
+      </Device>
+      
+    
+    </Devices>
+    
+  
+  </Network>
+  
+
+</ElectricalProject>

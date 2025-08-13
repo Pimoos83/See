@@ -1,0 +1,44 @@
+<Pack id="PKxxxxx" Descriptor="PGxxxxx">
+  <Product>
+    <CircuitBreaker xmlns="http://www.schneider-electric.com/electrical-distribution/exchange-format/commercial-taxonomy">
+      <CircuitBreaker>
+        <Manufacturer>Manufacturer</Manufacturer>
+        <!--Dummy value for XSD validation-->
+        <Range>Range</Range>
+        <!--Dummy value for XSD validation-->
+        <Designation>Designation</Designation>
+        <RangeDisplayName/>
+        <DesignationDisplayName>Ref</DesignationDisplayName>
+        <VoltageRange/>Manufacturer
+        <Rating>Rating</Rating>
+        <StandardTypeOf>Type</StandardTypeOf>
+        <SwitchedPoleCount>Nbp</SwitchedPoleCount>
+        <ProtectedPoleCount>Prp</ProtectedPoleCount>
+        <BreakingCapacity>Br</BreakingCapacity>
+        <Settings>
+          <Ild>Ild</Ild>
+          <Tld>Tld</Tld>
+          <Isd>Isd</Isd>
+          <Tsd>Tsd</Tsd>
+          <Iid>6930</Iid>
+          <Ti>Ti</Ti>
+        </Settings>
+      </CircuitBreaker>
+      <TripUnit>
+        <Manufacturer>Manufacturer</Manufacturer>
+        <!--Dummy value for XSD validation-->
+        <Range>Range</Range>
+        <Designation>Designation</Designation>
+        <RangeDisplayName/>
+        <DesignationDisplayName>Designation</DesignationDisplayName>
+        <VoltageRange/>
+        <ProtectedPoleCount>Prp</ProtectedPoleCount>
+        <Protection>CircuitBreaker</Protection>
+        <Rating>Rating</Rating>
+      </TripUnit>
+    </CircuitBreaker>
+  </Product>
+  <Instances>
+    <Instance id="PIxxxxx"/>
+  </Instances>
+</Pack>

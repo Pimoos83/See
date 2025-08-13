@@ -1,0 +1,3137 @@
+{
+  "component_type": "ECD_DISJONCTEUR",
+  "templates": [
+    {
+      "id": 1,
+      "name": "TR01",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "MG4_13271"
+      },
+      "characteristics": {
+        "PRT_INST": "",
+        "PRT_PERFO": "F",
+        "PRT_CDECL": "Micrologic 2.3",
+        "PRT_CAL": "630.00",
+        "PRT_NBPPP": "4P3D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "36",
+        "PRT_DIFF": "N",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "0",
+        "PRT_REF": "NSX630F"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 2,
+      "name": "ALIM TD IRVE",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC3DISNSXM"
+      },
+      "characteristics": {
+        "PRT_INST": "FIX",
+        "PRT_PERFO": "E",
+        "PRT_CDECL": "TM-D",
+        "PRT_CAL": "32.00",
+        "PRT_NBPPP": "4P4D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "16",
+        "PRT_DIFF": "N",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "0",
+        "PRT_REF": "NSXmE"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 3,
+      "name": "IRVE C1",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19030"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "T",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "32.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "6",
+        "PRT_DIFF": "Y",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "AC",
+        "PRT_BDSEN": "30",
+        "PRT_REF": "iDT40T"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 4,
+      "name": "IRVE C2",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19030"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "T",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "32.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "6",
+        "PRT_DIFF": "Y",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "AC",
+        "PRT_BDSEN": "30",
+        "PRT_REF": "iDT40T"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 5,
+      "name": "TD-1",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC3DISNSXM"
+      },
+      "characteristics": {
+        "PRT_INST": "FIX",
+        "PRT_PERFO": "E",
+        "PRT_CDECL": "TM-D",
+        "PRT_CAL": "50.00",
+        "PRT_NBPPP": "4P4D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "16",
+        "PRT_DIFF": "N",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "0",
+        "PRT_REF": "NSXmE"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 6,
+      "name": "TD-1SJB001",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19030"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "16.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "N",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "0",
+        "PRT_REF": "iDT40K"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 7,
+      "name": "TD1-ECL 8",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19030"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "10.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "N",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "0",
+        "PRT_REF": "iDT40K"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 8,
+      "name": "TD1-ECL 1",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19030"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "10.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "N",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "0",
+        "PRT_REF": "iDT40K"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 9,
+      "name": "TD1-ECL 2",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19030"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "10.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "N",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "0",
+        "PRT_REF": "iDT40K"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 10,
+      "name": "TD1-ECL 4",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19030"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "10.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "N",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "0",
+        "PRT_REF": "iDT40K"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 11,
+      "name": "TD1-ECL 5",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19030"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "10.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "N",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "0",
+        "PRT_REF": "iDT40K"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 12,
+      "name": "TD1-ECL 6",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19030"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "10.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "N",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "0",
+        "PRT_REF": "iDT40K"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 13,
+      "name": "TD1-ECL 7",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19030"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "10.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "N",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "0",
+        "PRT_REF": "iDT40K"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 14,
+      "name": "TD-1ECL01",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19030"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "10.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "N",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "0",
+        "PRT_REF": "iDT40K"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 15,
+      "name": "TD1-ECL ESC",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19030"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "10.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "N",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "0",
+        "PRT_REF": "iDT40K"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 16,
+      "name": "TD-1SJB002",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC1_1"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "N",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "63.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "10",
+        "PRT_DIFF": "N",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "0",
+        "PRT_REF": "iC60N"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 17,
+      "name": "TD1-PC 1",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19054"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "16.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "Y",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "30",
+        "PRT_REF": "iDD40K Type AC"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 18,
+      "name": "TD1-PC 2",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19054"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "16.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "Y",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "30",
+        "PRT_REF": "iDD40K Type AC"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 19,
+      "name": "TD1-PC 3",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19054"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "16.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "Y",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "30",
+        "PRT_REF": "iDD40K Type AC"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 20,
+      "name": "TD1-PC 4",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19054"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "16.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "Y",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "30",
+        "PRT_REF": "iDD40K Type AC"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 21,
+      "name": "TD-1SJB003",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC1_1"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "N",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "50.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "10",
+        "PRT_DIFF": "N",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "0",
+        "PRT_REF": "iC60N"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 22,
+      "name": "TD1-PC 5",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19054"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "16.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "Y",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "30",
+        "PRT_REF": "iDD40K Type AC"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 23,
+      "name": "TD1-PC 6",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19054"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "16.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "Y",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "30",
+        "PRT_REF": "iDD40K Type AC"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 24,
+      "name": "TD1-PC 7",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19054"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "16.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "Y",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "30",
+        "PRT_REF": "iDD40K Type AC"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 25,
+      "name": "TD1-PC 8",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19054"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "16.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "Y",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "30",
+        "PRT_REF": "iDD40K Type AC"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 26,
+      "name": "TD-2",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "MG4_13271"
+      },
+      "characteristics": {
+        "PRT_INST": "",
+        "PRT_PERFO": "B",
+        "PRT_CDECL": "TM-D",
+        "PRT_CAL": "80.00",
+        "PRT_NBPPP": "4P3D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "25",
+        "PRT_DIFF": "N",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "0",
+        "PRT_REF": "NSX100B"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 27,
+      "name": "TD-2SJB001",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19030"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "16.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "N",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "0",
+        "PRT_REF": "iDT40K"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 28,
+      "name": "TD2-ECL 1",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19030"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "10.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "N",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "0",
+        "PRT_REF": "iDT40K"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 29,
+      "name": "TD2-ECL 10",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19030"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "10.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "N",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "0",
+        "PRT_REF": "iDT40K"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 30,
+      "name": "TD2-ECL 2",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19030"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "10.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "N",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "0",
+        "PRT_REF": "iDT40K"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 31,
+      "name": "TD2-ECL 3",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19030"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "10.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "N",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "0",
+        "PRT_REF": "iDT40K"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 32,
+      "name": "TD2-ECL 4",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19030"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "10.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "N",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "0",
+        "PRT_REF": "iDT40K"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 33,
+      "name": "TD2-ECL 5",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19030"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "10.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "N",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "0",
+        "PRT_REF": "iDT40K"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 34,
+      "name": "TD2-ECL 6",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19030"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "10.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "N",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "0",
+        "PRT_REF": "iDT40K"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 35,
+      "name": "TD2-ECL 7",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19030"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "10.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "N",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "0",
+        "PRT_REF": "iDT40K"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 36,
+      "name": "TD2-ECL 8",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19030"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "10.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "N",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "0",
+        "PRT_REF": "iDT40K"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 37,
+      "name": "TD2-ECL 9",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19030"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "10.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "N",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "0",
+        "PRT_REF": "iDT40K"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 38,
+      "name": "TD-2SJB002",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC1_121"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "N",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "100.00",
+        "PRT_NBPPP": "2P2D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "20",
+        "PRT_DIFF": "N",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "0",
+        "PRT_REF": "C120N"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 39,
+      "name": "TD2-PC 1",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19054"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "16.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "Y",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "30",
+        "PRT_REF": "iDD40K Type AC"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 40,
+      "name": "TD2-PC 2",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19054"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "16.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "Y",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "30",
+        "PRT_REF": "iDD40K Type AC"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 41,
+      "name": "TD2-PC 3",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19054"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "16.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "Y",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "30",
+        "PRT_REF": "iDD40K Type AC"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 42,
+      "name": "TD2-PC 4",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19054"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "16.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "Y",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "30",
+        "PRT_REF": "iDD40K Type AC"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 43,
+      "name": "TD2-PC 5",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19054"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "16.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "Y",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "30",
+        "PRT_REF": "iDD40K Type AC"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 44,
+      "name": "TD2-PC 6",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19054"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "16.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "Y",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "30",
+        "PRT_REF": "iDD40K Type AC"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 45,
+      "name": "TD-2SJB003",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC1_121"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "N",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "125.00",
+        "PRT_NBPPP": "2P2D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "20",
+        "PRT_DIFF": "N",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "0",
+        "PRT_REF": "C120N"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 46,
+      "name": "TD2-PC 10",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19054"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "16.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "Y",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "30",
+        "PRT_REF": "iDD40K Type AC"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 47,
+      "name": "TD2-PC 11",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19054"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "16.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "Y",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "30",
+        "PRT_REF": "iDD40K Type AC"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 48,
+      "name": "TD2-PC 12",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19054"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "16.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "Y",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "30",
+        "PRT_REF": "iDD40K Type AC"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 49,
+      "name": "TD2-PC 13",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19054"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "16.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "Y",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "30",
+        "PRT_REF": "iDD40K Type AC"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 50,
+      "name": "TD2-PC 7",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19054"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "16.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "Y",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "30",
+        "PRT_REF": "iDD40K Type AC"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 51,
+      "name": "TD2-PC 8",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19054"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "16.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "Y",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "30",
+        "PRT_REF": "iDD40K Type AC"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 52,
+      "name": "TD2-PC 9",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19054"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "16.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "Y",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "30",
+        "PRT_REF": "iDD40K Type AC"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 53,
+      "name": "TD-3",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "MG4_13271"
+      },
+      "characteristics": {
+        "PRT_INST": "",
+        "PRT_PERFO": "B",
+        "PRT_CDECL": "TM-D",
+        "PRT_CAL": "100.00",
+        "PRT_NBPPP": "4P3D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "25",
+        "PRT_DIFF": "N",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "0",
+        "PRT_REF": "NSX100B"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 54,
+      "name": "TD-3SJB001",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19030"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "16.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "N",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "0",
+        "PRT_REF": "iDT40K"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 55,
+      "name": "TD3-ECL 1",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19030"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "10.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "N",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "0",
+        "PRT_REF": "iDT40K"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 56,
+      "name": "TD3-ECL 10",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19030"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "10.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "N",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "0",
+        "PRT_REF": "iDT40K"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 57,
+      "name": "TD3-ECL 2",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19030"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "10.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "N",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "0",
+        "PRT_REF": "iDT40K"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 58,
+      "name": "TD3-ECL 3",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19030"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "10.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "N",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "0",
+        "PRT_REF": "iDT40K"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 59,
+      "name": "TD3-ECL 4",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19030"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "10.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "N",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "0",
+        "PRT_REF": "iDT40K"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 60,
+      "name": "TD3-ECL 5",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19030"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "10.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "N",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "0",
+        "PRT_REF": "iDT40K"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 61,
+      "name": "TD3-ECL 6",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19030"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "10.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "N",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "0",
+        "PRT_REF": "iDT40K"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 62,
+      "name": "TD3-ECL 7",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19030"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "10.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "N",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "0",
+        "PRT_REF": "iDT40K"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 63,
+      "name": "TD3-ECL 8",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19030"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "10.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "N",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "0",
+        "PRT_REF": "iDT40K"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 64,
+      "name": "TD3-ECL 9",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19030"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "10.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "N",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "0",
+        "PRT_REF": "iDT40K"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 65,
+      "name": "TD-3SJB002",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC1_121"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "N",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "125.00",
+        "PRT_NBPPP": "2P2D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "20",
+        "PRT_DIFF": "N",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "0",
+        "PRT_REF": "C120N"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 66,
+      "name": "TD3-PC 1",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19054"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "16.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "Y",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "30",
+        "PRT_REF": "iDD40K Type AC"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 67,
+      "name": "TD3-PC 2",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19054"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "16.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "Y",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "30",
+        "PRT_REF": "iDD40K Type AC"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 68,
+      "name": "TD3-PC 3",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19054"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "16.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "Y",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "30",
+        "PRT_REF": "iDD40K Type AC"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 69,
+      "name": "TD3-PC 4",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19054"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "16.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "Y",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "30",
+        "PRT_REF": "iDD40K Type AC"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 70,
+      "name": "TD3-PC 5",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19054"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "16.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "Y",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "30",
+        "PRT_REF": "iDD40K Type AC"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 71,
+      "name": "TD3-PC 6",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19054"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "20.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "Y",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "30",
+        "PRT_REF": "iDD40K Type AC"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 72,
+      "name": "TD-3SJB003",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC1_121"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "N",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "125.00",
+        "PRT_NBPPP": "2P2D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "20",
+        "PRT_DIFF": "N",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "0",
+        "PRT_REF": "C120N"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 73,
+      "name": "TD3-PC 10",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19054"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "16.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "Y",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "30",
+        "PRT_REF": "iDD40K Type AC"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 74,
+      "name": "TD3-PC 11",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19054"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "16.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "Y",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "30",
+        "PRT_REF": "iDD40K Type AC"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 75,
+      "name": "TD3-PC 12",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19054"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "16.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "Y",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "30",
+        "PRT_REF": "iDD40K Type AC"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 76,
+      "name": "TD3-PC 13",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19054"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "16.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "Y",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "30",
+        "PRT_REF": "iDD40K Type AC"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 77,
+      "name": "TD3-PC 7",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19054"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "16.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "Y",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "30",
+        "PRT_REF": "iDD40K Type AC"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 78,
+      "name": "TD3-PC 8",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19054"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "16.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "Y",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "30",
+        "PRT_REF": "iDD40K Type AC"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 79,
+      "name": "TD3-PC 9",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19054"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "16.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "Y",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "30",
+        "PRT_REF": "iDD40K Type AC"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 80,
+      "name": "TD-4",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "MG4_13271"
+      },
+      "characteristics": {
+        "PRT_INST": "",
+        "PRT_PERFO": "B",
+        "PRT_CDECL": "TM-D",
+        "PRT_CAL": "100.00",
+        "PRT_NBPPP": "4P3D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "25",
+        "PRT_DIFF": "N",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "0",
+        "PRT_REF": "NSX100B"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 81,
+      "name": "TD-4SJB001",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19030"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "16.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "N",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "0",
+        "PRT_REF": "iDT40K"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 82,
+      "name": "TD4-ECL 1",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19030"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "10.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "N",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "0",
+        "PRT_REF": "iDT40K"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 83,
+      "name": "TD4-ECL 2",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19030"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "10.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "N",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "0",
+        "PRT_REF": "iDT40K"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 84,
+      "name": "TD4-ECL 3",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19030"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "10.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "N",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "0",
+        "PRT_REF": "iDT40K"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 85,
+      "name": "TD4-ECL 4",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19030"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "10.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "N",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "0",
+        "PRT_REF": "iDT40K"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 86,
+      "name": "TD4-ECL 5",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19030"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "10.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "N",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "0",
+        "PRT_REF": "iDT40K"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 87,
+      "name": "TD4-ECL 6",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19030"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "10.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "N",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "0",
+        "PRT_REF": "iDT40K"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 88,
+      "name": "TD4-ECL 7",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19030"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "10.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "N",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "0",
+        "PRT_REF": "iDT40K"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 89,
+      "name": "TD4-ECL 8",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19030"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "10.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "N",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "0",
+        "PRT_REF": "iDT40K"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 90,
+      "name": "TD4-ECL 9",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19030"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "10.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "N",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "0",
+        "PRT_REF": "iDT40K"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 91,
+      "name": "TD-4SJB002",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC1_121"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "N",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "125.00",
+        "PRT_NBPPP": "2P2D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "20",
+        "PRT_DIFF": "N",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "0",
+        "PRT_REF": "C120N"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 92,
+      "name": "TD4-PC 1",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19054"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "16.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "Y",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "30",
+        "PRT_REF": "iDD40K Type AC"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 93,
+      "name": "TD4-PC 2",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19054"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "20.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "Y",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "30",
+        "PRT_REF": "iDD40K Type AC"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 94,
+      "name": "TD4-PC 3",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19054"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "16.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "Y",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "30",
+        "PRT_REF": "iDD40K Type AC"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 95,
+      "name": "TD4-PC 4",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19054"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "16.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "Y",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "30",
+        "PRT_REF": "iDD40K Type AC"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 96,
+      "name": "TD4-PC 5",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19054"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "16.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "Y",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "30",
+        "PRT_REF": "iDD40K Type AC"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 97,
+      "name": "TD4-PC 6",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19054"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "16.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "Y",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "30",
+        "PRT_REF": "iDD40K Type AC"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 98,
+      "name": "TD-4SJB003",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC1_121"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "N",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "125.00",
+        "PRT_NBPPP": "2P2D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "20",
+        "PRT_DIFF": "N",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "0",
+        "PRT_REF": "C120N"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 99,
+      "name": "TD4-PC 10",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19054"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "16.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "Y",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "30",
+        "PRT_REF": "iDD40K Type AC"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 100,
+      "name": "TD4-PC 11",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19054"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "16.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "Y",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "30",
+        "PRT_REF": "iDD40K Type AC"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 101,
+      "name": "TD4-PC 12",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19054"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "16.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "Y",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "30",
+        "PRT_REF": "iDD40K Type AC"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 102,
+      "name": "TD4-PC 13",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19054"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "16.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "Y",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "30",
+        "PRT_REF": "iDD40K Type AC"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 103,
+      "name": "TD4-PC 7",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19054"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "20.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "Y",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "30",
+        "PRT_REF": "iDD40K Type AC"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 104,
+      "name": "TD4-PC 8",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19054"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "16.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "Y",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "30",
+        "PRT_REF": "iDD40K Type AC"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 105,
+      "name": "TD4-PC 9",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19054"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "16.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "Y",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "30",
+        "PRT_REF": "iDD40K Type AC"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 106,
+      "name": "TD-5",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC3DISNSXM"
+      },
+      "characteristics": {
+        "PRT_INST": "FIX",
+        "PRT_PERFO": "E",
+        "PRT_CDECL": "TM-D",
+        "PRT_CAL": "32.00",
+        "PRT_NBPPP": "4P4D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "16",
+        "PRT_DIFF": "N",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "0",
+        "PRT_REF": "NSXmE"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 107,
+      "name": "TD-5SJB001",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19030"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "T",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "25.00",
+        "PRT_NBPPP": "4P3D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "6",
+        "PRT_DIFF": "N",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "0",
+        "PRT_REF": "iDT40T"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 108,
+      "name": "TD5-ASC 1",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": ""
+      },
+      "characteristics": {
+        "PRT_INST": "",
+        "PRT_PERFO": "",
+        "PRT_CDECL": "",
+        "PRT_CAL": "10.00",
+        "PRT_NBPPP": "3P3D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "50",
+        "PRT_DIFF": "N",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "0",
+        "PRT_REF": "INTEGRAL 18"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 109,
+      "name": "TD5-ASC 2",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": ""
+      },
+      "characteristics": {
+        "PRT_INST": "",
+        "PRT_PERFO": "",
+        "PRT_CDECL": "",
+        "PRT_CAL": "10.00",
+        "PRT_NBPPP": "3P3D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "50",
+        "PRT_DIFF": "N",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "0",
+        "PRT_REF": "INTEGRAL 18"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 110,
+      "name": "TD-5SJB002",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19030"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "16.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "N",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "0",
+        "PRT_REF": "iDT40K"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 111,
+      "name": "TD5-ECL 1",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19030"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "10.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "N",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "0",
+        "PRT_REF": "iDT40K"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 112,
+      "name": "TD5-ECL 2",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19030"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "10.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "N",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "0",
+        "PRT_REF": "iDT40K"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 113,
+      "name": "TD5-PC 1",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC4_19054"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "K",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "16.00",
+        "PRT_NBPPP": "2P1D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "4.5",
+        "PRT_DIFF": "Y",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "30",
+        "PRT_REF": "iDD40K Type AC"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 114,
+      "name": "ALIM UPS",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC3DISNSXM"
+      },
+      "characteristics": {
+        "PRT_INST": "FIX",
+        "PRT_PERFO": "E",
+        "PRT_CDECL": "TM-D",
+        "PRT_CAL": "16.00",
+        "PRT_NBPPP": "4P4D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "16",
+        "PRT_DIFF": "N",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "0",
+        "PRT_REF": "NSXmE"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 115,
+      "name": "AR1-ECL1",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "SC1_1"
+      },
+      "characteristics": {
+        "PRT_INST": "DIN",
+        "PRT_PERFO": "H",
+        "PRT_CDECL": "C",
+        "PRT_CAL": "10.00",
+        "PRT_NBPPP": "2P2D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "30",
+        "PRT_DIFF": "N",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "0",
+        "PRT_REF": "iC60H"
+      },
+      "xml_template": ""
+    },
+    {
+      "id": 116,
+      "name": "GE01",
+      "seed": {
+        "Name": "",
+        "Type": "RAPSODY",
+        "GroupId": "ECD_DISJONCTEUR",
+        "ItemId": "MG4_13271"
+      },
+      "characteristics": {
+        "PRT_INST": "",
+        "PRT_PERFO": "F",
+        "PRT_CDECL": "Micrologic 2.3",
+        "PRT_CAL": "400.00",
+        "PRT_NBPPP": "4P3D",
+        "PRT_NORM": "EN 60947-2",
+        "PRT_FREQ": "50",
+        "PRT_ICC": "36",
+        "PRT_DIFF": "N",
+        "PRT_VISU": "N",
+        "PRT_TCDE": "N",
+        "PRT_BDCLS": "",
+        "PRT_BDSEN": "0",
+        "PRT_REF": "NSX400F"
+      },
+      "xml_template": ""
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+<Component id="ECxxxxx">
+  <FunctionalName>Name</FunctionalName>
+  <DistributionComponent xmlns="http://www.schneider-electric.com/electrical-distribution/exchange-format/electrical-taxonomy">
+    <Properties/>
+    <Busbar>
+      <Properties>
+        <EquipotentialBoundingTypeOf/>
+      </Properties>
+    </Busbar>
+  </DistributionComponent>
+  <Terminals>
+    <Terminal id="ECTxxxxx">
+      <Polarity>3Ph+N</Polarity>
+      <SystemEarthingManagement>TN-S</SystemEarthingManagement>
+      <Voltage>400</Voltage>
+    </Terminal>
+    <Terminal id="ECTxxxxx">
+      <Polarity>3Ph+N</Polarity>
+      <SystemEarthingManagement>TN-S</SystemEarthingManagement>
+      <Voltage>400</Voltage>
+    </Terminal>
+    <Terminal id="ECTxxxxx">
+      <Polarity>3Ph+N</Polarity>
+      <SystemEarthingManagement>TN-S</SystemEarthingManagement>
+      <Voltage>400</Voltage>
+    </Terminal>
+    <Terminal id="ECTxxxxx">
+      <Polarity>3Ph+N</Polarity>
+      <SystemEarthingManagement>TN-S</SystemEarthingManagement>
+      <Voltage>400</Voltage>
+    </Terminal>
+    <Terminal id="ECTxxxxx">
+      <Polarity>3Ph+N</Polarity>
+      <SystemEarthingManagement>TN-S</SystemEarthingManagement>
+      <Voltage>400</Voltage>
+    </Terminal>
+    <Terminal id="ECTxxxxx">
+      <Polarity>3Ph+N</Polarity>
+      <SystemEarthingManagement>TN-S</SystemEarthingManagement>
+      <Voltage>400</Voltage>
+    </Terminal>
+    <Terminal id="ECTxxxxx">
+      <Polarity>3Ph+N</Polarity>
+      <SystemEarthingManagement>TN-S</SystemEarthingManagement>
+      <Voltage>400</Voltage>
+    </Terminal>
+    <Terminal id="ECTxxxxx">
+      <Polarity>3Ph+N</Polarity>
+      <SystemEarthingManagement>TN-S</SystemEarthingManagement>
+      <Voltage>400</Voltage>
+    </Terminal>
+    <Terminal id="ECTxxxxx">
+      <Polarity>Ph+N</Polarity>
+      <SystemEarthingManagement>TN-S</SystemEarthingManagement>
+      <Voltage>400</Voltage>
+    </Terminal>
+    <Terminal id="ECTxxxxx">
+      <Polarity>3Ph+N</Polarity>
+      <SystemEarthingManagement>TN-S</SystemEarthingManagement>
+      <Voltage>400</Voltage>
+    </Terminal>
+  </Terminals>
+</Component>

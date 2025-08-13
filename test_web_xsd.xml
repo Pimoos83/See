@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ElectricalProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.schneider-electric.com/electrical-distribution/exchange-format" formatVersion="0.29" productRangeValuesVersion="0.17" commercialTaxonomyVersion="0.26" electricalTaxonomyVersion="0.19" mechanicalTaxonomyVersion="0.1">
+  
+  
+  <Description>
+    
+    
+    <Name>Caneco BT - Etap Roadshow 2023</Name>
+    
+    
+    <Number/>
+    
+    
+    <OrderNumber/>
+    
+    
+    <StartDate>2023-10-10T00:00:00.0Z</StartDate>
+    
+  
+  </Description>
+  
+  
+  <Contacts>
+    
+    
+    <Company id="CC00001">
+      
+      
+      <Address>
+        
+        
+        <Street/>
+        
+        
+        <PostalCode/>
+        
+        
+        <City/>
+        
+        
+        <State/>
+        
+        
+        <Country>France</Country>
+        
+      
+      </Address>
+      
+      
+      <PhoneNumbers>
+        
+        
+        <Phone Kind="main"/>
+        
+      
+      </PhoneNumbers>
+      
+      
+      <Name>Authorized user</Name>
+      
+    
+    </Company>
+    
+    
+    <Person id="CP00001">
+      
+      
+      <LastName/>
+      
+      
+      <PhoneNumbers>
+        
+        
+        <Phone Kind="main"/>
+        
+      
+      </PhoneNumbers>
+      
+      
+      <Email/>
+      
+      
+      <Company id="CC00001"/>
+      
+    
+    </Person>
+    
+  
+  </Contacts>
+  
+  
+  <Products>
+    
+    
+    <ProductSet>
+      
+      
+      <Product id="PG00001">
+        
+        
+        <Name>IRVE C2</Name>
+        
+        
+        <Seed Name="" Type="RAPSODY" GroupId="ECD_DISJONCTEUR" ItemId="MG4_13271"/>
+        
+        
+        <Content>
+          
+          
+          <Characteristics>
+            
+            
+            <Characteristic>
+              
+              
+              <Name/>
+              
+              
+              <Id>PRT_CAL</Id>
+              
+              
+              <SetValues>
+                
+                
+                <Value>
+                  
+                  
+                  <Name/>
+                  
+                  
+                  <Id>32.00</Id>
+                  
+                
+                </Value>
+                
+              
+              </SetValues>
+              
+            
+            </Characteristic>
+            
+          
+          </Characteristics>
+          
+        
+        </Content>
+        
+      
+      </Product>
+      
+    
+    </ProductSet>
+    
+  
+  </Products>
+  
+
+</ElectricalProject>

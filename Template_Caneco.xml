@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ElectricalProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" formatVersion="0.29" productRangeValuesVersion="0.17" commercialTaxonomyVersion="0.26" electricalTaxonomyVersion="0.19" mechanicalTaxonomyVersion="0.1" xmlns="http://www.schneider-electric.com/electrical-distribution/exchange-format">
+  Template Description
+  Template Contact
+  <Products>
+    <ProductSet>
+Template PGxxxxx
+suivre la liste des disjonteurs dans l'ordre pour incrementer les xxxxx
+    </ProductSet>
+    <ProductList>
+ suivre la liste des composant dans l'ordre pour incrementer les xxxxx
+ Mais commencer imperativement par 
+ Template_PKxxxxx_TR
+ Template_PKxxxxx_CA
+ Template_PKxxxxx_DISJ
+    </ProductList>
+   </Products>
+  <Equipments>
+  Template PKxxxxx_EQ
+ Les EQ sont les groupes de folios dans See, suivre la liste des folios dans l'ordre pour incrementer les xxxxx 
+  </Equipments>
+  <Network>
+    <Frequency>50</Frequency>
+    <Devices>
+  suivre la liste des composant dans l'ordre pour incrementer les xxxxx
+ Mais commencer imperativement par 
+ Template EDxxxxx_TR
+ Template EDxxxxx_CA
+ Template EDxxxxx_DISJ    
+    </Devices>
+    <Components>
+Templates disponibles 
+  Template_ECxxxxx_TR
+  Template_ECxxxxx_CA
+  Template_ECxxxxx_DISTRI
+  Template_ECxxxxx_DISJ
+  Template_ECxxxxx_LOAD
+
+  Commencer par 
+  Template_ECxxxxx_TR
+  Template_ECxxxxx_CA
+  Template_ECxxxxx_DISTRI
+  Template_ECxxxxx_DISJ
+  puis suivre la suivre la liste des composant dans l'ordre pour incrementer les xxxxx
+    </Components>
+    <Functions>
+    Templates disponibles 
+  Template_EFxxxxx_CA
+  Template_ECxxxxx_DISJ
+  Template_ECxxxxx_JDB
+  Template_ECxxxxx_RECIEVE
+  Template_ECxxxxx_SO
+
+  Commencer par 
+  Template_ECxxxxx_SO
+  Template_ECxxxxx_CA
+  Template_ECxxxxx_DISTRI
+  Template_ECxxxxx_DISJ
+  puis suivre la suivre la liste des composant dans l'ordre pour incrementer les xxxxx 
+    </Functions>
+    <ExploitationModes>
+ Template_EXMxxxxx
+puis suivre la suivre la liste des composant dans l'ordre pour incrementer les xxxxx
+    </ExploitationModes>
+    <PowerConnections>
+ Template ECXxxxx
+puis suivre la suivre la liste des composant dans l'ordre pour incrementer les xxxxx 
+    </PowerConnections>
+  </Network>
+</ElectricalProject>

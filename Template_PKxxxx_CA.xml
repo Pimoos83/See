@@ -1,0 +1,35 @@
+<Pack id="PKxxxxx">
+  <Product>
+    <Cable xmlns="http://www.schneider-electric.com/electrical-distribution/exchange-format/commercial-taxonomy">
+      <Cable>
+        <Manufacturer>Manufacturer/<Manufacturer>
+        <Range>Range</Range>
+        <Designation>Designation</Designation>
+        <RangeDisplayName/>
+        <DesignationDisplayName>Name</DesignationDisplayName>
+        <VoltageRange/>
+        <Insulation>PR</Insulation>
+        <Constitution>Unknown</Constitution>
+        <PhaseCount>PhaseCount</PhaseCount>
+        <PE>
+          <ConductorCore>Core</ConductorCore>
+          <ConductorCount>Count</ConductorCount>
+          <ConductorCrossSection>Section</ConductorCrossSection>
+        </PE>
+        <Phase>
+          <ConductorCore>Core</ConductorCore>
+          <ConductorCount>Count</ConductorCount>
+          <ConductorCrossSection>Section</ConductorCrossSection>
+        </Phase>
+        <Neutral>
+          <ConductorCore>Core</ConductorCore>
+          <ConductorCount>Count</ConductorCount>
+          <ConductorCrossSection>Section</ConductorCrossSection>
+        </Neutral>
+      </Cable>
+    </Cable>
+  </Product>
+  <Instances>
+    <Instance id="PIxxxxx"/>
+  </Instances>
+</Pack>

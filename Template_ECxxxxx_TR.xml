@@ -1,0 +1,27 @@
+<Component id="ECxxxxx">
+  <FunctionalName>Name</FunctionalName>
+  <SourceComponent xmlns="http://www.schneider-electric.com/electrical-distribution/exchange-format/electrical-taxonomy">
+    <Properties/>
+    <MvLvTransformer>
+      <Properties>
+        <Frequency>Freq</Frequency>
+        <Insulation/>
+        <LossesType/>
+        <NoLoadOutputVoltage>420</NoLoadOutputVoltage>
+        <PrimaryConnectionType>D</PrimaryConnectionType>
+        <SecondaryConnectionType>yn</SecondaryConnectionType>
+        <RatedPower>400</RatedPower>
+      </Properties>
+      <LvLvTransformer>
+        <Properties/>
+      </LvLvTransformer>
+    </MvLvTransformer>
+  </SourceComponent>
+  <Terminals>
+    <Terminal id="ECTxxxxx">
+      <Polarity>3Ph+N</Polarity>
+      <SystemEarthingManagement>TN-S</SystemEarthingManagement>
+      <Voltage>400</Voltage>
+    </Terminal>
+  </Terminals>
+</Component>

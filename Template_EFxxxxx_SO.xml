@@ -1,0 +1,7 @@
+<Function id="EFxxxxx" Components="ECxxxxx">
+  <SourceFunction xmlns="http://www.schneider-electric.com/electrical-distribution/exchange-format/electrical-taxonomy">
+    <Type>MV source</Type>
+  </SourceFunction>
+  <ExploitationModes>
+    <Properties ExploitationMode="EXMxxxxx"/>
+  </ExploitationModes>

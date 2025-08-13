@@ -1,0 +1,20 @@
+<Component id="ECxxxxx">
+  <FunctionalName>Name</FunctionalName>
+  <LoadComponent xmlns="http://www.schneider-electric.com/electrical-distribution/exchange-format/electrical-taxonomy">
+    <Properties>
+      <DeltaUMax>7.5</DeltaUMax>
+      <PowerFactor>1</PowerFactor>
+      <Ir>30.31</Ir>
+      <CoherenceMode/>
+      <Ku>1</Ku>
+    </Properties>
+    <PassiveLoad/>
+  </LoadComponent>
+  <Terminals>
+    <Terminal id="ECTxxxxx">
+      <Polarity>Ph+N</Polarity>
+      <SystemEarthingManagement>TN-S</SystemEarthingManagement>
+      <Voltage>400</Voltage>
+    </Terminal>
+  </Terminals>
+</Component>

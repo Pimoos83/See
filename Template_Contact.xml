@@ -1,0 +1,23 @@
+<Contacts>
+  <Company id="CC00001">
+    <Address>
+      <Street></Street>
+      <PostalCode></PostalCode>
+      <City></City>
+      <State/>
+      <Country>France</Country>
+    </Address>
+    <PhoneNumbers>
+      <Phone Kind="main"></Phone>
+    </PhoneNumbers>
+    <Name>Authorized user</Name>
+  </Company>
+  <Person id="CP00001">
+    <LastName></LastName>
+    <PhoneNumbers>
+      <Phone Kind="main"></Phone>
+    </PhoneNumbers>
+    <Email></Email>
+    <Company id="CC00001"/>
+  </Person>
+</Contacts>

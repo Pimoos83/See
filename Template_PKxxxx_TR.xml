@@ -1,0 +1,22 @@
+<Pack id="PKxxxxx">
+  <Product>
+    <Transformer xmlns="http://www.schneider-electric.com/electrical-distribution/exchange-format/commercial-taxonomy">
+      <Transformer>
+        <Manufacturer>Unknown</Manufacturer>
+        <Range/>
+        <Designation>Unknown</Designation>
+        <RangeDisplayName>UTE95 NFC 52 112</RangeDisplayName>
+        <DesignationDisplayName></DesignationDisplayName>
+        <Sr>400000</Sr>
+        <InputVoltage>20000</InputVoltage>
+        <UsageOutputVoltage>400</UsageOutputVoltage>
+        <OutputVoltageNoLoad>420</OutputVoltageNoLoad>
+        <PrimaryConnection>D</PrimaryConnection>
+        <SecondaryConnection>yn</SecondaryConnection>
+      </Transformer>
+    </Transformer>
+  </Product>
+  <Instances>
+    <Instance id="PIxxxxxx/>
+  </Instances>
+</Pack>

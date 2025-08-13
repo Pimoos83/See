@@ -1,0 +1,193 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ElectricalProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.schneider-electric.com/electrical-distribution/exchange-format" formatVersion="0.29" productRangeValuesVersion="0.17" commercialTaxonomyVersion="0.26" electricalTaxonomyVersion="0.19" mechanicalTaxonomyVersion="0.1">
+  <Description>
+    <Name>Caneco BT - Etap Roadshow 2023</Name>
+    <Number />
+    <OrderNumber />
+    <StartDate>2023-10-10T00:00:00.0Z</StartDate>
+  </Description>
+  <Contacts>
+    <Company id="CC00001">
+      <Address>
+        <Street />
+        <PostalCode />
+        <City />
+        <State />
+        <Country>France</Country>
+      </Address>
+      <PhoneNumbers>
+        <Phone Kind="main" />
+      </PhoneNumbers>
+      <Name>Authorized user</Name>
+    </Company>
+    <Person id="CP00001">
+      <LastName />
+      <PhoneNumbers>
+        <Phone Kind="main" />
+      </PhoneNumbers>
+      <Email />
+      <Company id="CC00001" />
+    </Person>
+  </Contacts>
+  <Products>
+    <ProductSet>
+      <Product id="PG00001">
+        <Name>Transfo Principal</Name>
+        <Seed Name="" Type="RAPSODY" GroupId="ECD_TRANSFORMATEUR" ItemId="SC1TRANFO" />
+        <Content>
+          <Characteristics>
+            <Characteristic>
+              <Name />
+              <Id>PRT_INST</Id>
+              <SetValues>
+                <Value>
+                  <Name />
+                  <Id>FIX</Id>
+                </Value>
+              </SetValues>
+            </Characteristic>
+            <Characteristic>
+              <Name />
+              <Id>PRT_TENSION_PRIM</Id>
+              <SetValues>
+                <Value>
+                  <Name />
+                  <Id>400</Id>
+                </Value>
+              </SetValues>
+            </Characteristic>
+            <Characteristic>
+              <Name />
+              <Id>PRT_TENSION_SEC</Id>
+              <SetValues>
+                <Value>
+                  <Name />
+                  <Id>230</Id>
+                </Value>
+              </SetValues>
+            </Characteristic>
+            <Characteristic>
+              <Name />
+              <Id>PRT_PUISSANCE</Id>
+              <SetValues>
+                <Value>
+                  <Name />
+                  <Id>1000</Id>
+                </Value>
+              </SetValues>
+            </Characteristic>
+            <Characteristic>
+              <Name />
+              <Id>PRT_FREQ</Id>
+              <SetValues>
+                <Value>
+                  <Name />
+                  <Id>50</Id>
+                </Value>
+              </SetValues>
+            </Characteristic>
+            <Characteristic>
+              <Name />
+              <Id>PRT_NORM</Id>
+              <SetValues>
+                <Value>
+                  <Name />
+                  <Id>EN 60947-2</Id>
+                </Value>
+              </SetValues>
+            </Characteristic>
+            <Characteristic>
+              <Name />
+              <Id>PRT_TYPE</Id>
+              <SetValues>
+                <Value>
+                  <Name />
+                  <Id>MONO</Id>
+                </Value>
+              </SetValues>
+            </Characteristic>
+          </Characteristics>
+        </Content>
+      </Product>
+      <Product id="PG00002">
+        <Name>Transfo Principal</Name>
+        <Seed Name="" Type="RAPSODY" GroupId="ECD_TRANSFORMATEUR" ItemId="SC1TRANFO" />
+        <Content>
+          <Characteristics>
+            <Characteristic>
+              <Name />
+              <Id>PRT_INST</Id>
+              <SetValues>
+                <Value>
+                  <Name />
+                  <Id>FIX</Id>
+                </Value>
+              </SetValues>
+            </Characteristic>
+            <Characteristic>
+              <Name />
+              <Id>PRT_TENSION_PRIM</Id>
+              <SetValues>
+                <Value>
+                  <Name />
+                  <Id>400</Id>
+                </Value>
+              </SetValues>
+            </Characteristic>
+            <Characteristic>
+              <Name />
+              <Id>PRT_TENSION_SEC</Id>
+              <SetValues>
+                <Value>
+                  <Name />
+                  <Id>230</Id>
+                </Value>
+              </SetValues>
+            </Characteristic>
+            <Characteristic>
+              <Name />
+              <Id>PRT_PUISSANCE</Id>
+              <SetValues>
+                <Value>
+                  <Name />
+                  <Id>1000</Id>
+                </Value>
+              </SetValues>
+            </Characteristic>
+            <Characteristic>
+              <Name />
+              <Id>PRT_FREQ</Id>
+              <SetValues>
+                <Value>
+                  <Name />
+                  <Id>50</Id>
+                </Value>
+              </SetValues>
+            </Characteristic>
+            <Characteristic>
+              <Name />
+              <Id>PRT_NORM</Id>
+              <SetValues>
+                <Value>
+                  <Name />
+                  <Id>EN 60947-2</Id>
+                </Value>
+              </SetValues>
+            </Characteristic>
+            <Characteristic>
+              <Name />
+              <Id>PRT_TYPE</Id>
+              <SetValues>
+                <Value>
+                  <Name />
+                  <Id>MONO</Id>
+                </Value>
+              </SetValues>
+            </Characteristic>
+          </Characteristics>
+        </Content>
+      </Product>
+    </ProductSet>
+    <ProductList />
+  </Products>
+</ElectricalProject>

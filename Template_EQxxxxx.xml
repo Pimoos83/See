@@ -1,0 +1,20 @@
+<Equipment id="EQxxxxx">
+  <Commercial ProductPacks="PKxxxx">
+    <Properties>
+      <BreakingCapacity>Br</BreakingCapacity>
+      <Rating>Rating</Rating>
+    </Properties>
+  </Commercial>
+  <Electrical Devices="EDxxxxx" Functions="EFxxxxx">
+    <Properties>
+      <Frequency>Freq</Frequency>
+      <EarthingSystem>TN-S</EarthingSystem>
+    </Properties>
+    <Switchboard>
+      <Properties/>
+    </Switchboard>
+  </Electrical>
+  <Properties>
+    <Name>Nom</Name>
+  </Properties>
+</Equipment>

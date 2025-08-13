@@ -1,0 +1,271 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ElectricalProject xmlns:ns0="http://www.schneider-electric.com/electrical-distribution/exchange-format/commercial-taxonomy" xmlns:ns1="http://www.schneider-electric.com/electrical-distribution/exchange-format/electrical-taxonomy" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.schneider-electric.com/electrical-distribution/exchange-format" formatVersion="0.29" productRangeValuesVersion="0.17" commercialTaxonomyVersion="0.26" electricalTaxonomyVersion="0.19" mechanicalTaxonomyVersion="0.1">
+  <Description>
+    <Name>Caneco BT - Etap Roadshow 2023</Name>
+    <Number />
+    <OrderNumber />
+    <StartDate>2023-10-10T00:00:00.0Z</StartDate>
+  </Description>
+  <Contacts>
+    <Company id="CC00001">
+      <Address>
+        <Street ></Street>
+        <PostalCode ></PostalCode>
+        <City ></City>
+        <State ></State>
+        <Country>France</Country>
+      </Address>
+      <PhoneNumbers>
+        <Phone Kind="main"></Phone>
+      </PhoneNumbers>
+      <Name>Authorized user</Name>
+    </Company>
+    <Person id="CP00001">
+      <LastName ></LastName>
+      <PhoneNumbers>
+        <Phone Kind="main"></Phone>
+      </PhoneNumbers>
+      <Email ></Email>
+      <Company id="CC00001" />
+    </Person>
+  </Contacts>
+  <Products>
+    <ProductSet>
+      <Product id="PG00001">
+        <Name>ALIM TD IRVE</Name>
+        <Seed Name="" Type="RAPSODY" GroupId="ECD_DISJONCTEUR" ItemId="SC3DISNSXM" />
+        <Content>
+          <Characteristics>
+            <Characteristic>
+              <Name ></Name>
+              <Id>PRT_INST</Id>
+              <SetValues>
+                <Value>
+                  <Name ></Name>
+                  <Id>FIX</Id>
+                </Value>
+              </SetValues>
+            </Characteristic>
+            <Characteristic>
+              <Name ></Name>
+              <Id>PRT_PERFO</Id>
+              <SetValues>
+                <Value>
+                  <Name ></Name>
+                  <Id>E</Id>
+                </Value>
+              </SetValues>
+            </Characteristic>
+            <Characteristic>
+              <Name ></Name>
+              <Id>PRT_CDECL</Id>
+              <SetValues>
+                <Value>
+                  <Name ></Name>
+                  <Id>TM-D</Id>
+                </Value>
+              </SetValues>
+            </Characteristic>
+            <Characteristic>
+              <Name ></Name>
+              <Id>PRT_CAL</Id>
+              <SetValues>
+                <Value>
+                  <Name ></Name>
+                  <Id>32.00</Id>
+                </Value>
+              </SetValues>
+            </Characteristic>
+            <Characteristic>
+              <Name ></Name>
+              <Id>PRT_NBPPP</Id>
+              <SetValues>
+                <Value>
+                  <Name ></Name>
+                  <Id>4P4D</Id>
+                </Value>
+              </SetValues>
+            </Characteristic>
+            <Characteristic>
+              <Name ></Name>
+              <Id>PRT_NORM</Id>
+              <SetValues>
+                <Value>
+                  <Name ></Name>
+                  <Id>EN 60947-2</Id>
+                </Value>
+              </SetValues>
+            </Characteristic>
+            <Characteristic>
+              <Name ></Name>
+              <Id>PRT_FREQ</Id>
+              <SetValues>
+                <Value>
+                  <Name ></Name>
+                  <Id>50</Id>
+                </Value>
+              </SetValues>
+            </Characteristic>
+            <Characteristic>
+              <Name ></Name>
+              <Id>PRT_ICC</Id>
+              <SetValues>
+                <Value>
+                  <Name ></Name>
+                  <Id>16</Id>
+                </Value>
+              </SetValues>
+            </Characteristic>
+            <Characteristic>
+              <Name ></Name>
+              <Id>PRT_DIFF</Id>
+              <SetValues>
+                <Value>
+                  <Name ></Name>
+                  <Id>N</Id>
+                </Value>
+              </SetValues>
+            </Characteristic>
+            <Characteristic>
+              <Name ></Name>
+              <Id>PRT_VISU</Id>
+              <SetValues>
+                <Value>
+                  <Name ></Name>
+                  <Id>N</Id>
+                </Value>
+              </SetValues>
+            </Characteristic>
+            <Characteristic>
+              <Name ></Name>
+              <Id>PRT_TCDE</Id>
+              <SetValues>
+                <Value>
+                  <Name ></Name>
+                  <Id>N</Id>
+                </Value>
+              </SetValues>
+            </Characteristic>
+            <Characteristic>
+              <Name ></Name>
+              <Id>PRT_BDCLS</Id>
+              <SetValues>
+                <Value>
+                  <Name ></Name>
+                  <Id />
+                </Value>
+              </SetValues>
+            </Characteristic>
+            <Characteristic>
+              <Name ></Name>
+              <Id>PRT_BDSEN</Id>
+              <SetValues>
+                <Value>
+                  <Name ></Name>
+                  <Id>0</Id>
+                </Value>
+              </SetValues>
+            </Characteristic>
+            <Characteristic>
+              <Name ></Name>
+              <Id>PRT_REF</Id>
+              <SetValues>
+                <Value>
+                  <Name ></Name>
+                  <Id>NSX630F</Id>
+                </Value>
+              </SetValues>
+            </Characteristic>
+          </Characteristics>
+        </Content>
+      </Product>
+    </ProductSet>
+    <ProductList>
+      <Pack id="PK00001" Descriptor="PG00001">
+        <Product>
+          <ns0:CircuitBreaker>
+            <ns0:CircuitBreaker>
+              <ns0:Manufacturer>Schneider Electric</ns0:Manufacturer>
+              <ns0:Range>NSX</ns0:Range>
+              <ns0:Designation>C1001H</ns0:Designation>
+              <ns0:RangeDisplayName />
+              <ns0:DesignationDisplayName>NSXmE</ns0:DesignationDisplayName>
+              <ns0:VoltageRange />
+              <ns0:Rating>32</ns0:Rating>
+              <ns0:StandardTypeOf>Industrial</ns0:StandardTypeOf>
+              <ns0:SwitchedPoleCount>4P</ns0:SwitchedPoleCount>
+              <ns0:ProtectedPoleCount>4</ns0:ProtectedPoleCount>
+              <ns0:BreakingCapacity>16</ns0:BreakingCapacity>
+              <ns0:Settings>
+                <ns0:Ild>29.4</ns0:Ild>
+                <ns0:Tld>16</ns0:Tld>
+                <ns0:Isd>294</ns0:Isd>
+                <ns0:Tsd>0.02</ns0:Tsd>
+                <ns0:Iid>352</ns0:Iid>
+                <ns0:Ti>0</ns0:Ti>
+              </ns0:Settings>
+            </ns0:CircuitBreaker>
+            <ns0:TripUnit>
+              <ns0:Manufacturer>Schneider Electric</ns0:Manufacturer>
+              <ns0:Range>NSX</ns0:Range>
+              <ns0:Designation>TM-D</ns0:Designation>
+              <ns0:RangeDisplayName />
+              <ns0:DesignationDisplayName>TM-D</ns0:DesignationDisplayName>
+              <ns0:VoltageRange />
+              <ns0:ProtectedPoleCount>4</ns0:ProtectedPoleCount>
+              <ns0:Protection>CircuitBreaker</ns0:Protection>
+              <ns0:Rating>32</ns0:Rating>
+            </ns0:TripUnit>
+          </ns0:CircuitBreaker>
+        </Product>
+        <Instances>
+          <Instance id="PI00001" />
+        </Instances>
+      </Pack>
+    </ProductList>
+  </Products>
+  <Equipments>
+    <Equipment id="EQ00001">
+      <Commercial ProductPacks="PK00001">
+        <Properties>
+          <BreakingCapacity>16</BreakingCapacity>
+          <Rating>32</Rating>
+        </Properties>
+      </Commercial>
+      <Electrical Devices="ED00001" Functions="EF00001">
+        <Properties>
+          <EarthingSystem>TN</EarthingSystem>
+          <Frequency>50</Frequency>
+        </Properties>
+        <Switchboard>
+          <Properties />
+        </Switchboard>
+      </Electrical>
+      <Properties>
+        <Name>IRVE C2</Name>
+      </Properties>
+    </Equipment>
+  </Equipments>
+  <Network>
+    <Components>
+      <Component id="NC00001">
+        <FunctionalName>IRVE C2</FunctionalName>
+        <Terminals>
+          <Terminal id="NT00001">
+            <Polarity>1</Polarity>
+            <SystemEarthingManagement>Active</SystemEarthingManagement>
+            <Voltage>400</Voltage>
+          </Terminal>
+          <Terminal id="NT00002">
+            <Polarity>2</Polarity>
+            <SystemEarthingManagement>Active</SystemEarthingManagement>
+            <Voltage>400</Voltage>
+          </Terminal>
+        </Terminals>
+        <ns1:ProtectionComponent>
+          <ns1:Properties />
+        </ns1:ProtectionComponent>
+      </Component>
+    </Components>
+  </Network>
+</ElectricalProject>
